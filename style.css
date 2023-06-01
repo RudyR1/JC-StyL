@@ -4,16 +4,16 @@
     font-family: 'Nothing You Could Do', cursive;
 }
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.5),#95afc0), url(img/banner.png);
+    background: linear-gradient(rgba(0,0,0,0.5),#c9c3e6), url(img/banner.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
 
 }
-.logo{
-    width: 140px;
+.outils{
+    width: 70px;
     position: absolute;
-    top: 4%;
+    top: 1%;
     left: 10%;
 }
 .banner-text{
@@ -67,7 +67,7 @@
     position: fixed;
     right: -250px;
     top: 0;
-    background: #95afc0;
+    background: #c9c3e6;
     z-index: 2;
     transition: 0,5s;
 }
@@ -82,7 +82,7 @@ nav ul li a{
 #menuBtn{
     width: 50px;
     height: 50px;
-    background: #95afc0;
+    background: #c9c3e6;
     text-align: center;
     position: fixed;
     right: 30px;
@@ -118,7 +118,7 @@ nav ul li a{
 .title-text p{
     margin: auto;
     font-size: 20px;
-    color: #95afc0;
+    color: #c9c3e6;
     font-weight: bold;
     position: relative;
     z-index: 1;
@@ -128,7 +128,7 @@ nav ul li a{
     content: '';
     width: 50px;
     height: 35px;
-    background: linear-gradient(#95afc0,#fff);
+    background: linear-gradient(#c9c3e6,#fff);
     position: absolute;
     top: -20px;
     left: 0;
@@ -163,7 +163,7 @@ nav ul li a{
     text-align: left;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #95afc0;
+    color: #c9c3e6;
 }
 .features-desc{
     display: flex;
@@ -176,8 +176,8 @@ nav ul li a{
     font-size: 30px;
     line-height: 50px;
     border-radius: 8px;
-    color: #95afc0;
-    border: 1px solid #95afc0;
+    color: #c9c3e6;
+    border: 1px solid #c9c3e6;
 }
 .features-text p{
     padding: 0 20px;
@@ -231,7 +231,7 @@ nav ul li a{
     top: 0;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(rgba(0,0,0,0.5),#95afc0);
+    background: linear-gradient(rgba(0,0,0,0.5),#c9c3e6);
     opacity: 0;
     transition: 1s;
 }
@@ -296,7 +296,7 @@ hr{
     padding: 10px;
     margin-bottom: 30px;
     border-radius: 5px;
-    box-shadow: 0 10px 20px 3px #95afc014;
+    box-shadow: 0 10px 20px 3px #c9c3e614;
     cursor: pointer;
     transition: transform .5s;
 }
@@ -319,7 +319,7 @@ hr{
     font-size: 20px;
 }
 .user-info small{
-    color: #95afc0;
+    color: #c9c3e6;
 }
 .testimonial-col:hover{
     transform: translateY(-7px);
@@ -360,7 +360,7 @@ hr{
 }
 .footer-left .fa,.footer-right .fa{
     font-size: 20px;
-    color: #95afc0;
+    color: #c9c3e6;
     margin: 10px;
 }
 .footer-img{
@@ -379,14 +379,14 @@ hr{
     width: 40px;
     font-size: 20px;
     line-height: 40px;
-    border: 1px solid #95afc0;
+    border: 1px solid #c9c3e6;
     margin: 40px 5px 0;
-    color: #95afc0;
+    color: #c9c3e6;
     cursor: pointer;
     transition: .5s;
 }
 .social-links .fa:hover{
-    background: #95afc0;
+    background: #c9c3e6;
     color: #fff;
     transform: translateY(-7px);
 }
