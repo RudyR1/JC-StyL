@@ -11,10 +11,10 @@
     height: 100vh;
 
 }
-.logo{
-    width: 140px;
+.outils{
+    width: 70px;
     position: absolute;
-    top: 4%;
+    top: 1%;
     left: 10%;
 }
 .banner-text{
